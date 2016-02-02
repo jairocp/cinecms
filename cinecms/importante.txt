@@ -1,2 +1,0 @@
-#middleares
-se registran en el kernel con el nombre que se quiere llamar
